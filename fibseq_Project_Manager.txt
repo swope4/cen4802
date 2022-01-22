@@ -1,0 +1,13 @@
+Fibseq program is the java program that writes the 10th term of the fibonacci sequence
+//**\\//**\\//**\\//**\\//**\\//**\\//**\\//**\\//**\\//**\\//**\\//**\\//**\\//**\\//*\
+In this program we have the class Fibseq run by the main method 
+and determined by the static method (lowercase fibseq) fibseq.
+since in the process of recursive methods we are able to run 
+the fib sequece by just returning the added methods with 
+paramiters included to n-1 and n-2. This in turn adds them
+together and produces the numbers sequecially until we get 
+our desired term declared in the main. using standard output 
+method the nth (in our case 10th) term is produced. 
+Although this program runs it does not contain javadoc implementation 
+and remains with flaws. The updated request will contain the this
+implementation.
